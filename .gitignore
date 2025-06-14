@@ -1,0 +1,11 @@
+.vscode
+.code
+node_modules
+dist
+coverage
+*.log
+*.env
+*.DS_Store
+*.out
+main
+main.dSYM
